@@ -19,6 +19,7 @@ Pure stupidity
 * Can you use an iPhone without connecting it to a car via Bluetooth or Apple CarPlay?
 
 * What are the differences between the new iPhones (Xs, Xs max, etc.) and the previous models? Are the new iPhones worth upgrading to for non-size related reasons?
+** Asked in 2022.
 
 False Assertions
 
@@ -33,6 +34,7 @@ False Assertions
 * What is the status of the rumor that Apple Inc. is planning to buy Twitter? If the rumor is true, why does Apple want to buy Twitter?
 
 * Do you like the new iPhone XS with its new "water-drop" style notch design?
+** Asked in 2022.
 
 * What are the benefits of Apple removing the Home button on their new MacBook Pro laptops?
 
