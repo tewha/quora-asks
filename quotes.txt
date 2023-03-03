@@ -21,6 +21,8 @@ Pure stupidity
 * What are the differences between the new iPhones (Xs, Xs max, etc.) and the previous models? Are the new iPhones worth upgrading to for non-size related reasons?
 ** Asked in 2022.
 
+* How was the word "Apple" derived, as a company name?
+
 False Assertions
 
 * What is the reason behind Apple's processor naming change from "A" to "X" (e.g., from "A10 Fusion" to "Xr")?
